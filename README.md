@@ -9,6 +9,7 @@
  - Cross-species orthology mapping
  - Cross-species ortholog gene class conservation analysis (gene class conservation heatmap)
  - Cross-species cell type conservation of genes in different classes (pie charts)
+ - Comparing sequence similarity (bit score) and expression specificity similarity
 
 #### Datasets include:
 
